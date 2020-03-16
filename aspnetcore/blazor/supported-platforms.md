@@ -35,7 +35,7 @@ ms.locfileid: "76160134"
 | Safari (iOS 포함)            | 현재               |
 | Microsoft Internet Explorer      | 지원 되지 않음&dagger; |
 
-&dagger;Microsoft Internet Explorer는 [Weasembmbmbmbmbmba](https://webassembly.org)를 지원 하지 않습니다.
+&dagger;Microsoft Internet Explorer는 [WebAssembly](https://webassembly.org)를 지원 하지 않습니다.
 
 ### <a name="opno-locblazor-server"></a>Blazor 서버
 
